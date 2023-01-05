@@ -1,0 +1,36 @@
+/* .form-control small {
+    transform: translate(3px, 2px);
+    padding: 8px; 
+    background-color: #cc0000;
+    border-radius: 5px;
+    white-space: nowrap;
+    display: none;
+}
+
+.form-control.error small {
+    color: white; 
+    display: inline-block;
+} */
+
+.form-error {
+    position: absolute;
+    background-color: rgb(255, 95, 95);
+    color: white;
+    display: inline-block;
+    font-size: 14px;
+    padding: 9.5px;
+    border-radius: 5px;
+    margin: 9px 10px;
+    max-width: 500px;
+}
+
+.admin-form-error {
+    position: absolute;
+    background-color: rgb(255, 95, 95);
+    color: white;
+    display: inline-block;
+    font-size: 13px;
+    padding: 6px;
+    border-radius: 5px;
+    margin-left: 10px;
+}
