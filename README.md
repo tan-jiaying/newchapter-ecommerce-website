@@ -8,6 +8,7 @@ This website serves as a platform for the collection and resale of second-hand b
 ![image](https://user-images.githubusercontent.com/106059007/210724961-870b9ce5-af4a-4b38-8141-e76cd64d6903.png)
 
 **Customer Interface**
+
 ![image](https://user-images.githubusercontent.com/106059007/210725152-43c81aee-b9aa-4881-82c0-cb4282c72496.png)
 ![image](https://user-images.githubusercontent.com/106059007/210725195-0aef1f7a-9712-456a-8e6a-9a1095b01894.png)
 ![image](https://user-images.githubusercontent.com/106059007/210725266-fba34c5c-89d3-4228-9102-a0d67e7ba114.png)
@@ -24,6 +25,7 @@ This website serves as a platform for the collection and resale of second-hand b
 ![image](https://user-images.githubusercontent.com/106059007/210726373-ccc44f8a-9ef8-401e-9c98-1f3a9aee09c7.png)
 
 **Admin Interface**
+
 ![image](https://user-images.githubusercontent.com/106059007/210726765-2221c85c-dee7-4ae7-8144-f9c330d6a076.png)
 ![image](https://user-images.githubusercontent.com/106059007/210726965-0efe74bc-66cb-47d1-9172-6f2e7cf2ba0e.png)
 ![image](https://user-images.githubusercontent.com/106059007/210727082-4e955043-18c9-4821-88f3-908ee5a6774a.png)
